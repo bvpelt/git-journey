@@ -1461,38 +1461,40 @@ A pull request is in essence a request you make to merge changes into another br
 
 
 ⏱️ Chapters
-0:00:00 Introduction to the Course
-0:01:04 What is Git & Version Control?
-0:04:01 Git vs. GitHub Explained
-0:05:41 Git Architecture: Local vs. Remote
-0:09:37 Installing Git (Windows, Mac, Linux)
-0:10:41 Terminal Setup & Verifying Installation
-0:11:57 Creating a Local Project & Files
-0:14:41 git init: Initializing a Repository
-0:16:04 Creating a Remote Repository on GitHub
-0:18:05 git clone: Cloning a Repository
-0:20:20 git status: Tracking Changes
-0:21:43 git add: Staging Changes
-0:23:40 git add Variations (., -A, specific files)
-0:24:30 git reset: Unstaging Files
-0:30:22 git commit: Saving Changes Permanently
-0:32:00 Configuring Git User Name & Email
-0:34:13 git reset HEAD: Undoing Last Commit
-0:35:32 git rm: Deleting Files
-0:37:00 git rm --cached: Stop Tracking Files
-0:39:50 git log: Viewing Commit History
-0:40:58 Git Branching Explained
-0:43:53 git checkout: Switching Branches
-0:45:50 git merge: Combining Branches
-0:47:43 Resolving Merge Conflicts
-0:52:13 Checking Out Previous Commits (Time Travel)
-0:54:26 git diff: Comparing Commits
-0:55:50 Understanding Push, Fetch, and Pull
-0:57:18 git push: Uploading to GitHub
-0:58:43 git fetch vs. git pull
-1:00:24 git restore: Discarding Local Changes
-1:03:16 git stash: Saving Unfinished Work
-1:09:47 git revert: Undoing Commits Safely
-1:12:18 git rebase: Cleaning Up History
-1:16:48 Pull Requests (PR) & Collaboration
-1:19:57 Conclusion & Cheat Sheet
+| time    | subject                                          |
+|---------|--------------------------------------------------|
+| 0:00:00 | Introduction to the Course                       |
+| 0:01:04 | What is Git & Version Control?                   |
+| 0:04:01 | Git vs. GitHub Explained                         |
+| 0:05:41 | Git Architecture: Local vs. Remote               |
+| 0:09:37 | Installing Git (Windows, Mac, Linux)             |
+| 0:10:41 | Terminal Setup & Verifying Installation          |
+| 0:11:57 | Creating a Local Project & Files                 |
+| 0:14:41 | git init: Initializing a Repository              |
+| 0:16:04 | Creating a Remote Repository on GitHub           |
+| 0:18:05 | git clone: Cloning a Repository                  |
+| 0:20:20 | git status: Tracking Changes                     |
+| 0:21:43 | git add: Staging Changes                         |
+| 0:23:40 | git add Variations (., -A, specific files)       |
+| 0:24:30 | git reset: Unstaging Files                       |
+| 0:30:22 | git commit: Saving Changes Permanently           |
+| 0:32:00 | Configuring Git User Name & Email                | 
+| 0:34:13 | git reset HEAD: Undoing Last Commit              |
+| 0:35:32 | git rm: Deleting Files                           |
+| 0:37:00 | git rm --cached: Stop Tracking Files             |
+| 0:39:50 | git log: Viewing Commit History                  |
+| 0:40:58 | Git Branching Explained                          | 
+| 0:43:53 | git checkout: Switching Branches                 |
+| 0:45:50 | git merge: Combining Branches                    |
+| 0:47:43 | Resolving Merge Conflicts                        |
+| 0:52:13 | Checking Out Previous Commits (Time Travel)      | 
+| 0:54:26 | git diff: Comparing Commits                      | 
+| 0:55:50 | Understanding Push, Fetch, and Pull              |
+| 0:57:18 | git push: Uploading to GitHub                    |
+| 0:58:43 | git fetch vs. git pull                           |
+| 1:00:24 | git restore: Discarding Local Changes            | 
+| 1:03:16 | git stash: Saving Unfinished Work                |
+| 1:09:47 | git revert: Undoing Commits Safely               |
+| 1:12:18 | git rebase: Cleaning Up History                  |
+| 1:16:48 | Pull Requests (PR) & Collaboration               |
+| 1:19:57 | Conclusion & Cheat Sheet                         |
